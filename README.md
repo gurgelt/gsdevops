@@ -17,3 +17,7 @@ Pagina para explicar para o usuario o que é a Yummy! e como usar.
 # Projeto (Page3)
 Pagina para enviar um e-mail contatando a Yummy! para que possamos analisar e ajudar pessoas com fome pelo mundo.
 ![image](https://github.com/gurgelt/gsdevops/assets/79914500/600d4189-8273-4e3e-8306-eb55dd29d3ea)
+
+# Arquitetura
+![image](https://github.com/gurgelt/gsdevops/assets/79914500/f789e788-d526-4f77-a8dd-c56ad5c4a3d3)
+
