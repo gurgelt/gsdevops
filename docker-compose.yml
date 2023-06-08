@@ -1,13 +1,13 @@
 version: '3'
 services:
-  web:
+  app:
 
-    image: nginx
+    image: paulogt/challenge
 
     ports:
       - 80:80
 
     volumes:
-      - ./app:/usr/share/nginx/html
+      - ./home/gs_devops:/data
       
     restart: always
